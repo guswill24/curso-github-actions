@@ -9,7 +9,7 @@ on:
       nombre:
         description: 'Tu nombre'
         required: true
-        default: 'Juan'
+        default: 'Gustavo'
         type: string
 jobs:
   mayor:
